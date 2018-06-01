@@ -1,0 +1,35 @@
+C:\Users\Zach\AppData\Local\Temporary Projects\Lesson_9\bin\Debug\Lesson9DataBase.accdb
+C:\Users\Zach\AppData\Local\Temporary Projects\Lesson_9\bin\Debug\Lesson_9.exe.config
+C:\Users\Zach\AppData\Local\Temporary Projects\Lesson_9\bin\Debug\Lesson_9.exe
+C:\Users\Zach\AppData\Local\Temporary Projects\Lesson_9\bin\Debug\Lesson_9.pdb
+C:\Users\Zach\AppData\Local\Temporary Projects\Lesson_9\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Zach\AppData\Local\Temporary Projects\Lesson_9\obj\x86\Debug\App.g.cs
+C:\Users\Zach\AppData\Local\Temporary Projects\Lesson_9\obj\x86\Debug\Lesson_9_Content.g.cs
+C:\Users\Zach\AppData\Local\Temporary Projects\Lesson_9\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Zach\AppData\Local\Temporary Projects\Lesson_9\obj\x86\Debug\Lesson_9_MarkupCompile.cache
+C:\Users\Zach\AppData\Local\Temporary Projects\Lesson_9\obj\x86\Debug\Lesson_9_MarkupCompile.lref
+C:\Users\Zach\AppData\Local\Temporary Projects\Lesson_9\obj\x86\Debug\MainWindow.baml
+C:\Users\Zach\AppData\Local\Temporary Projects\Lesson_9\obj\x86\Debug\Lesson_9.g.resources
+C:\Users\Zach\AppData\Local\Temporary Projects\Lesson_9\obj\x86\Debug\Lesson_9.Properties.Resources.resources
+C:\Users\Zach\AppData\Local\Temporary Projects\Lesson_9\obj\x86\Debug\Lesson_9.csproj.GenerateResource.Cache
+C:\Users\Zach\AppData\Local\Temporary Projects\Lesson_9\obj\x86\Debug\Lesson_9.exe
+C:\Users\Zach\AppData\Local\Temporary Projects\Lesson_9\obj\x86\Debug\Lesson_9.pdb
+C:\Users\Zach\Desktop\C# LVL 2\Lesson 9\Lesson_9\Lesson_9\bin\Debug\Lesson_9.exe.config
+C:\Users\Zach\Desktop\C# LVL 2\Lesson 9\Lesson_9\Lesson_9\obj\x86\Debug\Lesson_9.exe
+C:\Users\Zach\Desktop\C# LVL 2\Lesson 9\Lesson_9\Lesson_9\obj\x86\Debug\Lesson_9.pdb
+C:\Users\Zach\Desktop\C# LVL 2\Lesson 9\Lesson_9\Lesson_9\bin\Debug\Lesson9DataBase.accdb
+C:\Users\Zach\Desktop\C# LVL 2\Lesson 9\Lesson_9\Lesson_9\bin\Debug\Lesson_9.exe
+C:\Users\Zach\Desktop\C# LVL 2\Lesson 9\Lesson_9\Lesson_9\bin\Debug\Lesson_9.pdb
+C:\Users\Zach\Desktop\C# LVL 2\Lesson 9\Lesson_9\Lesson_9\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Zach\Desktop\C# LVL 2\Lesson 9\Lesson_9\Lesson_9\obj\x86\Debug\App.g.cs
+C:\Users\Zach\Desktop\C# LVL 2\Lesson 9\Lesson_9\Lesson_9\obj\x86\Debug\Lesson_9_Content.g.cs
+C:\Users\Zach\Desktop\C# LVL 2\Lesson 9\Lesson_9\Lesson_9\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Zach\Desktop\C# LVL 2\Lesson 9\Lesson_9\Lesson_9\obj\x86\Debug\Lesson_9_MarkupCompile.cache
+C:\Users\Zach\Desktop\C# LVL 2\Lesson 9\Lesson_9\Lesson_9\obj\x86\Debug\Lesson_9_MarkupCompile.lref
+C:\Users\Zach\Desktop\C# LVL 2\Lesson 9\Lesson_9\Lesson_9\obj\x86\Debug\MainWindow.baml
+C:\Users\Zach\Desktop\C# LVL 2\Lesson 9\Lesson_9\Lesson_9\obj\x86\Debug\Lesson_9.g.resources
+C:\Users\Zach\Desktop\C# LVL 2\Lesson 9\Lesson_9\Lesson_9\obj\x86\Debug\Lesson_9.Properties.Resources.resources
+C:\Users\Zach\Desktop\C# LVL 2\Lesson 9\Lesson_9\Lesson_9\obj\x86\Debug\Lesson_9.csproj.GenerateResource.Cache
+C:\Users\Zach\Desktop\School\C# LVL 2\Lesson 9\Lesson_9\Lesson_9\bin\Debug\Lesson_9.exe.config
+C:\Users\Zach\Desktop\School\C# LVL 2\Lesson 9\Lesson_9\Lesson_9\obj\x86\Debug\Lesson_9.exe
+C:\Users\Zach\Desktop\School\C# LVL 2\Lesson 9\Lesson_9\Lesson_9\obj\x86\Debug\Lesson_9.pdb
